@@ -1,7 +1,7 @@
 - 👋 Hi, Welcome to @EmzyCash an investment platform that is designed to ignite your interest on financial asset investment such as **stocks, bonds, options, forex & cryptos**
-- 👀 Our interest is in Financial Qualitative Analyses
-- 🌱 Currently we are learning Financial Engineering(MScFE.) with WQU
-- 💞️ Looking forward to collaborating on Fintech and Data Science projects
+- 👀 Our interest is in Financial Quantitative Analyses
+- 🌱 Currently we are learning Financial Engineering(MScFE.) at WQU
+- 💞️ Looking forward to collaborating on Fintech, Financial assets investment and Data Science projects
 - 📫 Reach us at emezieugwuozor@gmail.com
 
 <!---
